@@ -1,0 +1,57 @@
+---
+title: O nás
+menu:
+  main:
+    weight: 30
+---
+
+    Cílovou skupina – široká veřejnost, informační technologie v dnešní době používá naprostá většina populace, daná problematika se tedy týká všech, kteří jakýmkoli způsobem s nimi přichází do kontaktu
+    Cíl webu – Cílem tohoto webu je informovat o možných negativních vlivech na duševní zdraví jedinců, které má na svědomí používání informačních technologií v každodenním životě. Dále také zjištění míry možné provázanosti používání informačních technologií s výskytem duševních poruch a upozornění na rizikové faktory, které mohou jedince predisponovat k rozvoji duševních poruch.
+    Název webu – Informačních technologie a duševní zdraví
+   
+    Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti:
+
+https://www.medicalnewstoday.com/articles/318230.php
+
+https://www.forbes.com/sites/toriutley/2016/05/24/the-rise-of-cognitive-technology-in-mental-health/#61a3a9ca46a1
+
+http://msue.anr.msu.edu/news/digitaltechnologyandmentalhealth
+
+http://spartanyouth.msu.edu/precollege/documents/ThisisyourbrainonlineforPre-CollegeFacultyandStaffMarch2015.pdf
+
+    Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti
+    Odborný článek
+    https://www.sciencedirect.com/science/article/pii/S0005796716301371
+    odborný článek
+
+
+    Prozkoumejte dostupná multimédia (obrázky, videa atp.) a odkažte na ně
+https://www.nzm.cz/file/73aefec10065e5417366c5b3c3bd5c65/2426/bigperex/science%20espresso.jpg
+
+    Vizuální inspiraci pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)
+    http://www.bbc.co.uk/programmes/articles/3XvQ6HrP391YtTd6ycccHHG/exciting-page-turners-the-books-to-look-forward-to-in-2018
+
+    Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)
+    -definice info. technologií
+    -vliv technologií na každodenní život
+    -vliv technologií na psychiku
+    -stresová zátěž spojená s používáním info. technologií
+    -jedinci predisponovaní k rozvoji poruch
+    -rizikové faktory
+    -konkrétní duševní poruchy související s používáním info. technologií
+    -definice konkrétních duševních poruch
+    -prevence vzniku poruch 
+    -míra provázanosti používání informačních technologií s výskytem duševních poruch
+
+    Strategii zveřejňování obsahu: jaké informace a jakým způsobem budete zveřejňovat?
+    Informace přímo se týkající tématu nebo s ním související.
+    Způsob zveřejňování se jistě objasní během dalších lekcí.
+
+This is a minimal [Hugo][] website created for a course [VIKBA07][].
+
+Learn more about Hugo with a [quick start guide][qs] or by exploring its [documentation][hugoDocs].
+
+[Hugo]: https://gohugo.io
+[VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
+[hugoDocs]: https://gohugo.io/documentation/
+[qs]: https://gohugo.io/getting-started/quick-start/

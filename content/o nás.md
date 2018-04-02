@@ -20,9 +20,15 @@ http://msue.anr.msu.edu/news/digitaltechnologyandmentalhealth
 http://spartanyouth.msu.edu/precollege/documents/ThisisyourbrainonlineforPre-CollegeFacultyandStaffMarch2015.pdf
 
     Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti
-    Odborný článek
-    https://www.sciencedirect.com/science/article/pii/S0005796716301371
-    odborný článek
+   
+https://www.sciencedirect.com/science/article/pii/S0005796716301371
+https://socv2.nidv.cz/archiv37/getWork/hash/0d0e469a-c62a-11e4-98b3-faa932cbcfda
+https://theses.cz/id/y9phta/Disertacni_prace_Janska.pdf
+https://www.databazeknih.cz/knihy/digitalni-demence-jak-pripravujeme-sami-sebe-a-nase-deti-o-rozum-198686
+https://www.databazeknih.cz/knihy/jak-rozumet-mediim-extenze-cloveka-55105
+https://is.muni.cz/th/179164/ff_b/Bakalarska_prace1.pdf
+https://is.muni.cz/th/173362/fi_b_a2/Wearables.pdf
+https://www.databazeknih.cz/knihy/nebezpecna-melcina-jak-internet-meni-nas-mozek-333260
 
 
     Prozkoumejte dostupná multimédia (obrázky, videa atp.) a odkažte na ně

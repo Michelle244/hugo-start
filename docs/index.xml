@@ -42,6 +42,15 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
+      <title></title>
+      <link>http://michelle244.github.io/hugo-start/post/%C4%8Dl%C3%A1nek-pokus-o-opravu-23.4./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://michelle244.github.io/hugo-start/post/%C4%8Dl%C3%A1nek-pokus-o-opravu-23.4./</guid>
+      <description>Článek pojednává o tom, jak používání digitálních technologií ovlivňuje oblasti každodenního lidského života, jako jsou spánek, koncentrace, učení a chování.</description>
+    </item>
+    
+    <item>
       <title>Home</title>
       <link>http://michelle244.github.io/hugo-start/post/popis-t%C3%BDmu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

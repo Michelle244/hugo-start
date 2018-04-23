@@ -2,6 +2,7 @@ title: Vliv informačních technologií na duševní zdraví
 baseURL: http://michelle244.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
+googleAnalytics: UA-118051640-1
 
 menu:
   main:

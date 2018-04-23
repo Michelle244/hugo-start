@@ -1,17 +1,22 @@
 .wrapper {
-  margin: 30px auto;
-  max-width: 800px;
+  margin: 50px auto;
+  max-width: 900px;
   padding: 20px;
 }
 
 header {
   padding: 30px 0 0;
   border-bottom: solid;
+  background-size: 500px;
+  font-size: 20px;
+  width: 1500px;
+height: 250px;
 }
 
 footer {
   border-top: solid;
   clear: both;
+   text-align: center;
 }
 
 .page {
@@ -21,6 +26,8 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  background: center;
+
 }
 
 aside {
@@ -40,4 +47,33 @@ nav li {
 
 nav .active {
   font-weight: bold;
+  
 }
+
+body {
+  font-size: 18px;
+  font-family: Verdana;
+  background-color: #A9A9A9;
+  max-width: 100%;
+  background-size: 500px;
+ 
+}
+
+h1 {
+  font-size: 26px;
+  font-family: Verdana;
+  text-align: left ;
+  color: black;
+}
+
+p {
+  font-size: 15px;
+  font-family: Verdana;
+  font-color: black; 
+  text-align: justify;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+

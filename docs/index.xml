@@ -57,7 +57,8 @@ To add new posts, simply add a file in the content/post directory that follows t
       
       <guid>http://michelle244.github.io/hugo-start/post/popis-t%C3%BDmu/</guid>
       <description>Popis týmu:
-Michaela Kuníčková Kateřina Pazdírková</description>
+Michaela Kuníčková
+Kateřina Pazdírková</description>
     </item>
     
     <item>
@@ -66,7 +67,8 @@ Michaela Kuníčková Kateřina Pazdírková</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://michelle244.github.io/hugo-start/o-n%C3%A1s/</guid>
-      <description>Cílovou skupina – široká veřejnost, informační technologie v dnešní době používá naprostá většina populace, daná problematika se tedy týká všech, kteří jakýmkoli způsobem s nimi přichází do kontaktu Cíl webu – Cílem tohoto webu je informovat o možných negativních vlivech na duševní zdraví jedinců, které má na svědomí používání informačních technologií v každodenním životě. Dále také zjištění míry možné provázanosti používání informačních technologií s výskytem duševních poruch a upozornění na rizikové faktory, které mohou jedince predisponovat k rozvoji duševních poruch.</description>
+      <description>1) Cílová skupina – široká veřejnost, informační technologie v dnešní době používá naprostá většina populace, daná problematika se tedy týká všech, kteří jakýmkoli způsobem s nimi přichází do kontaktu
+2) Cíl webu – cílem tohoto webu je informovat o možných negativních vlivech na duševní zdraví jedinců, které má na svědomí používání informačních technologií v každodenním životě. Dále také zjištění míry možné provázanosti používání informačních technologií s výskytem duševních poruch a upozornění na rizikové faktory, které mohou jedince predisponovat k rozvoji duševních poruch.</description>
     </item>
     
   </channel>

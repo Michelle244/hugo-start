@@ -1,4 +1,4 @@
-title: O chytrém ševci a hloupém čertovi
+title: Vliv informačních technologií na duševní zdraví
 baseURL: http://michelle244.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
@@ -15,5 +15,8 @@ menu:
 
 params:
   description: Description of my new site.
-  authors: Authors
+  authors: Michaela Kuníčková
+           Kateřina Pazdírková
+
+
 

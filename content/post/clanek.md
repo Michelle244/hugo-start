@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Technologie a psychika</title>
-</head>
-<body>
-  <embed src="http://msue.anr.msu.edu/news/digital_technology_and_mental_health" style="width:100%; height:1080px;">
+<meta charset="utf-8">
+ 
+<iframe src="http://msue.anr.msu.edu/news/digital_technology_and_mental_health" width="700" height="240"></iframe> 
 
-
-<!Komentář: Článek jsem vybrala, neboť pojednává o tom, jak používání digitálních technologií ovlivňuje oblasti každodenního lidského života, jako jsou spánek, koncentrace, učení a chování.>
-</body>
-</html>
+Článek pojednává o tom, jak používání digitálních technologií ovlivňuje oblasti každodenního lidského života, jako jsou spánek, koncentrace, učení a chování.

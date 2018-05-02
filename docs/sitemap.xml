@@ -43,6 +43,10 @@
   </url>
   
   <url>
+    <loc>http://michelle244.github.io/hugo-start/post/digit%C3%A1ln%C3%AD-technologie-a-sp%C3%A1nek/</loc>
+  </url>
+  
+  <url>
     <loc>http://michelle244.github.io/hugo-start/tags/hello-world/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -77,6 +81,10 @@
     <loc>http://michelle244.github.io/hugo-start/tags/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michelle244.github.io/hugo-start/post/zm%C4%9Bna-my%C5%A1len%C3%AD/</loc>
   </url>
   
 </urlset>

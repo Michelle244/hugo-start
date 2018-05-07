@@ -1,2 +1,0 @@
-
-<script async src="http://msue.anr.msu.edu/news/digital_technology_and_mental_health" charset="UTF-8"></script> Článek pojednává o tom, jak používání digitálních technologií ovlivňuje oblasti každodenního lidského života, jako jsou spánek, koncentrace, učení a chování.

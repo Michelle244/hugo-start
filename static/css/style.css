@@ -5,12 +5,21 @@
 }
 
 header {
-  padding: 30px 0 0;
+  padding: 40px 0 0;
   border-bottom: solid;
-  background-size: 500px;
+  background-size: 1000px;
   font-size: 20px;
-  width: 1500px;
-height: 250px;
+  width: 1000px;
+height: 125px;
+border: double;
+background-image: url('https://www.noted.co.nz/media/10720/digi-mental-health.jpg');
+background-repeat: no-repeat;
+background-position: center;
+text-align: center;
+   color: black;
+   font-weight: bold;
+   width: 1000px;
+   height: 250px;
 }
 
 footer {
@@ -21,7 +30,7 @@ footer {
 
 .page {
   float: right;
-  width: 70%;
+  width: 60%;
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
@@ -32,13 +41,18 @@ footer {
 
 aside {
   float: left;
-  width: 25%;
-  margin-top: 1em;
+  width: 35%;
+  margin-top: 2em;
+  font-size: 20px;
+  height: 125px;
+
+
 }
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 0; 
+
 }
 
 nav li {
@@ -47,23 +61,42 @@ nav li {
 
 nav .active {
   font-weight: bold;
+
   
 }
 
 body {
   font-size: 18px;
   font-family: Verdana;
-  background-color: #A9A9A9;
-  max-width: 100%;
+  background-color: DimGray;
+  max-width: 80%;
   background-size: 500px;
+  border-left: 20%;
+  background-position: center;
+    
+   
  
 }
 
+footer p { 
+       
+       color: black;
+    font-family: sans-serif;
+      font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+
+}
+
 h1 {
-  font-size: 26px;
+  font-size: 30px;
   font-family: Verdana;
-  text-align: left ;
+  text-align: center; 
   color: black;
+  background: none ;
+  color: black;
+  font-weight: bold;
 }
 
 p {

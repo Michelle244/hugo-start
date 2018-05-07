@@ -1,3 +1,6 @@
+---
+title: Článek
+---
 <meta charset="utf-8">
  
 <iframe src="http://msue.anr.msu.edu/news/digital_technology_and_mental_health" width="700" height="240"></iframe> 

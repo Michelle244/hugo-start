@@ -1,5 +1,5 @@
 ---
-title: Článek
+title: Odkaz na článek
 ---
 <meta charset="utf-8">
  
